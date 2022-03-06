@@ -1,0 +1,2 @@
+# Sugoku
+Sugoku
